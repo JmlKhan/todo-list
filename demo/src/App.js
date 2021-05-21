@@ -38,7 +38,7 @@ function App() {
 
     <div className="App">
       <header>
-        <h1>Khan's Todo List</h1>
+        <h1>Todo List</h1>
       </header>
       <Form 
       setTodos = {setTodos}
